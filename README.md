@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="images/bobo.png" style="border-radius:25px" width="300" alt="Bo Bo">
+<img src="images/bobo-rounded.png" width="300" alt="Bo Bo">
 
 Here are some of my open-source projects:
 
